@@ -8,7 +8,7 @@
 ✍🏼 &nbsp;Me considero una persona enfocada, proactiva y práctica, con muchos deseos de seguir aprendiendo.\
 ✅ &nbsp;En búsqueda de experiencias enriquecedoras y desafiantes.\
 💆🏻‍♀️ &nbsp;Apasionada por natación, fútbol y mis mascotas.\
-📄 &nbsp;Comparto mi [Curriculum](https://drive.google.com/file/d/1yOurULim3sw_vuLHPRsuCjwufPLEqXmc/view?usp=share_link) para más info sobre mi
+📄 &nbsp;Comparto mi [Curriculum](https://drive.google.com/file/d/1zHzkYohGCWw8Cx_tI228bFBuTiGredJD/view?usp=share_link) para más info sobre mi
 
  </br>
 
