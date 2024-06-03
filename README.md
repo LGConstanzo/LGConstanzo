@@ -8,7 +8,7 @@
 ✍🏼 &nbsp;Me considero una persona enfocada, proactiva y práctica, con muchos deseos de seguir aprendiendo.\
 ✅ &nbsp;En búsqueda de experiencias enriquecedoras y desafiantes.\
 💆🏻‍♀️ &nbsp;Apasionada por natación, fútbol y mis mascotas.\
-📄 &nbsp;Te invito a ver mi [Curriculum](https://drive.google.com/file/d/1yOurULim3sw_vuLHPRsuCjwufPLEqXmc/view?usp=share_link) para mas detalles profesionales sobre mí.
+📄 &nbsp;Te comparto mi [Curriculum](https://drive.google.com/file/d/1yOurULim3sw_vuLHPRsuCjwufPLEqXmc/view?usp=share_link) para más info sobre mi
 
  </br>
 
@@ -42,8 +42,6 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LGConstanzo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
  </br>
  
@@ -52,3 +50,5 @@
 <a href="https://www.linkedin.com/in/laura-constanzo/"><img src="https://img.shields.io/badge/-Laura%20Constanzo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lg.constanzo@gmail.com"><img src="https://img.shields.io/badge/-lg.constanzo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/lali.cons"><img src="https://img.shields.io/badge/-@lali.cons-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+ </br>
