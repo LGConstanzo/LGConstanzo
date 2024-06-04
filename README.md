@@ -5,6 +5,7 @@
 
 👩🏻‍💻 &nbsp;Soy Ingeniera Química, Analista de Datos y Guardavidas.\
 💡 &nbsp;Tengo experiencia en la industria energética, con orientación al análisis y visualización de datos.\
+🛟 &nbsp;También estoy capacitada para garantizar la seguridad y responder ante emergencias de forma rápida y decisiva.\
 ✍🏼 &nbsp;Me considero una persona enfocada, proactiva y práctica, con muchos deseos de seguir aprendiendo.\
 ✅ &nbsp;En búsqueda de experiencias enriquecedoras y desafiantes.\
 💆🏻‍♀️ &nbsp;Apasionada por natación, fútbol y mis mascotas.\
