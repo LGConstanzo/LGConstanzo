@@ -9,7 +9,7 @@
 ✍🏼 &nbsp;Me considero una persona enfocada, proactiva y práctica, con muchos deseos de seguir aprendiendo.\
 ✅ &nbsp;En búsqueda de experiencias enriquecedoras y desafiantes.\
 💆🏻‍♀️ &nbsp;Apasionada por crossfit, natación, fútbol y mis mascotas.\
-📄 &nbsp;Comparto mi [CV]([https://drive.google.com/file/d/1zHzkYohGCWw8Cx_tI228bFBuTiGredJD/view?usp=share_link](https://drive.google.com/file/d/140vax1GGQLHglw_taFEf4eCULHuZDaq7/view?usp=drive_link) para más info sobre mi
+📄 &nbsp;Comparto mi [CV](https://drive.google.com/file/d/140vax1GGQLHglw_taFEf4eCULHuZDaq7/view?usp=drive_link) para más info sobre mi
 
  </br>
 
