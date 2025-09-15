@@ -1,6 +1,3 @@
-
-![Banner](https://media.licdn.com/dms/image/D4D16AQGhNG52lWTABQ/profile-displaybackgroundimage-shrink_350_1400/0/1717375553135?e=1723075200&v=beta&t=oH-fHX_3wZ6nQwefAV6JOiiyVpVN9slHstMrIYnrejY)
-
 <h2>👋 &nbsp;Hola! Mi nombre es Laura</h2>
 
 👩🏻‍💻 &nbsp;Soy Ingeniera Química, Data Analyst, Full Stack Web Developer y Guardavidas.\
