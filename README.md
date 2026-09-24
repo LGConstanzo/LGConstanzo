@@ -1,12 +1,12 @@
 <h2>👋 &nbsp;Hola! Mi nombre es Laura</h2>
 
-👩🏻‍💻 &nbsp;Soy Ingeniera Química, Data Analyst, Full Stack Web Developer y Guardavidas.\
-💡 &nbsp;Tengo experiencia en la industria energética, con orientación al análisis y visualización de datos.\
-🛟 &nbsp;También estoy capacitada para garantizar la seguridad y responder ante emergencias de forma rápida y decisiva.\
-✍🏼 &nbsp;Me considero una persona enfocada, proactiva y práctica, con muchos deseos de seguir aprendiendo.\
-✅ &nbsp;En búsqueda de experiencias enriquecedoras y desafiantes.\
-💆🏻‍♀️ &nbsp;Apasionada por crossfit, natación, fútbol y mis mascotas.\
-📄 &nbsp;Comparto mi [CV](https://drive.google.com/file/d/140vax1GGQLHglw_taFEf4eCULHuZDaq7/view?usp=drive_link) para más info sobre mi
+👩🏻‍💻 &nbsp;Soy Ingeniera de Procesos, con experiencia en la industria energética y tecnológica, en roles operativos, técnicos y estratégicos.\
+💡 &nbsp;Actualmente trabajo en Information Management, combinando ingeniería, tecnología y análisis de datos para transformar necesidades en soluciones concretas.\
+🚀 &nbsp;Me interesa seguir incorporando nuevas herramientas y disciplinas, especialmente en Data & Analytics, automatización, inteligencia artificial y ciberseguridad.\
+✍🏼 &nbsp;Me considero una persona práctica, proactiva y curiosa, siempre con ganas de aprender y enfrentar nuevos desafíos.\
+🛟 &nbsp;Y sí, también soy Guardavidas 😄\
+💆🏻‍♀️ &nbsp;Fuera del trabajo disfruto del crossfit, la natación, el fútbol y mis mascotas.\
+📄 &nbsp;Comparto mi [CV](https://drive.google.com/file/d/1WbF5Ky7-mE9gSNRH2cWIv5rRENkSBqi3/view?usp=drive_link) para más info sobre mi
 
  </br>
 
